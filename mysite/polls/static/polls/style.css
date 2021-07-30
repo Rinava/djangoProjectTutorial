@@ -1,0 +1,30 @@
+li {
+    color: aquamarine;
+}
+
+.title {
+    color: indigo;
+    background: lightskyblue;
+    border-radius: 15%;
+}
+
+.highlight {
+    color: lightskyblue;
+
+}
+
+.vote-again {
+    color: indianred;
+}
+
+.arrow {
+    color: lightsalmon;
+}
+
+body {
+    background: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
